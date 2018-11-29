@@ -1,0 +1,2 @@
+# learnByProfessionals_frontend_v1
+Client side application
